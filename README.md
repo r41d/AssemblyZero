@@ -12,5 +12,12 @@ You need to rename it to "AssemblyZero_#CurrentVersion" where CurrentVersion nee
 
 # Changelog
 
+## 0.1.2
+- Update/restrict to Factorio 0.13
+
+## 0.1.1
+- Add base mod check
+
 ## 0.1.0
 - First version
+
