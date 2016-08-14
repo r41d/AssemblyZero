@@ -10,6 +10,9 @@ Download the zip from GitHub and unzip it in your Factorio mods folder.
 The unpacked folder will most probably have the name "AssemblyZero-master".
 You need to rename it to "AssemblyZero_#CurrentVersion" where CurrentVersion needs to be replaced by the version found in info.json
 
+# License
+GNU GPLv3
+
 # Changelog
 
 ## 0.1.2
